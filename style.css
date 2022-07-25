@@ -4,8 +4,9 @@
 	font-size: 1.5rem;
 }
 .parent {
+	position: relative;
 	padding: 15px 20px;
-	background-color: aqua;
+	background-color: rgb(72, 248, 248);
 }
 .first {
 	padding: 10px;
@@ -18,4 +19,13 @@
 .third {
 	padding: 10px;
 	background-color: rgb(208, 125, 244);
+}
+
+           /* Flexbox Training */
+.flexbox-item {
+	width: 15%;
+	padding: 75px 5px;
+	margin: 10px 0;
+	border: 3px solid rgb(79, 79, 79);
+	background-color: darkgray;
 }
