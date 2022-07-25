@@ -23,9 +23,17 @@
 
            /* Flexbox Training */
 .flexbox-item {
-	width: 15%;
-	padding: 75px 5px;
-	margin: 10px 0;
+	width: 200px;
+	margin: 10px;
 	border: 3px solid rgb(79, 79, 79);
 	background-color: darkgray;
+}
+.flexbox-item-1 {
+	min-height: 100px;
+}
+.flexbox-item-2 {
+	min-height: 200px;
+}
+.flexbox-item-3 {
+	min-height: 300px;
 }
