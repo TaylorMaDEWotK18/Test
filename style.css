@@ -1,0 +1,7 @@
+* {
+	font-size: 1.5rem;
+}
+.parent {
+	padding: 15px 30px;
+	background-color: aqua;
+}
