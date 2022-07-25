@@ -1,7 +1,20 @@
 * {
+	box-sizing: border-box;
 	font-size: 1.5rem;
 }
 .parent {
-	padding: 15px 30px;
+	padding: 15px 20px;
 	background-color: aqua;
+}
+.first {
+	padding: 10px;
+	background-color: rgb(125, 244, 125);
+}
+.second {
+	padding: 10px;
+	background-color: rgb(232, 133, 28);
+}
+.third {
+	padding: 10px;
+	background-color: rgb(208, 125, 244);
 }
