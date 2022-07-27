@@ -27,6 +27,7 @@
 	flex-direction: row;
 	justify-content: space-around;
 	align-items:flex-start;
+	align-content: center;
 }				
 .flexbox-item {
 	width: 200px;
