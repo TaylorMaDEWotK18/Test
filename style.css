@@ -24,11 +24,12 @@
 
 /* Flexbox Training */
 .flexbox-container {
+	height: 700px;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
-	align-items:stretch;
-	align-content:flex-start;
+	align-items:flex-end;
+	align-content:center;
 }				
 .flexbox-item {
 	width: 200px;
